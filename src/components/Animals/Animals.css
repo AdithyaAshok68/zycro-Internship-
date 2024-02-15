@@ -1,0 +1,63 @@
+.main_container3 {
+    background-color: #F7F8FA;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+    font-family: Inter;
+}
+
+.animallist_content {
+    padding-top: 25px;
+}
+input[type="float"]
+{
+height: 40px;
+width: 442px;
+border-radius: 8px;
+border: 1px solid #E0E4F0;
+margin-bottom: 22px;
+padding-left: 10px;
+}
+
+input[type="number"]
+{
+height: 40px;
+width: 442px;
+border-radius: 8px;
+border: 1px solid #E0E4F0;
+margin-bottom: 22px;
+padding-left: 10px;
+}
+.table1 {
+    width: 1120px;
+    height: auto;
+    border-collapse: separate;
+    border-spacing:0;
+    border: 1px solid #E0E4F0;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.tr1{
+    background-color: #E0E4F0;
+    font-weight: 500;
+    color: #1A2433;
+    
+ }
+
+ 
+td {
+    width: 26%;
+    height: 44px;
+    padding: 0px 16px;
+    border-bottom: 1px solid #E0E4F0;
+   
+}
+.actions_animal {
+    border-bottom: 1px solid #E0E4F0;
+   
+
+}

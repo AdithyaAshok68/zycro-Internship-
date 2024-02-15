@@ -1,0 +1,119 @@
+.image_container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+    padding-top: 20px;
+}
+
+.form_container1{
+    border: 1px solid #E0E4F0;
+    width: 570px;
+    height: 466px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    flex-direction: column;
+    background-color:#FFFFFF;
+    margin-top: 35px;
+    
+}
+
+.down_div1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+
+.eyeicon1{
+    position: absolute;
+    right: 6px;
+    top: 138px;
+}
+
+.forms1{
+    position: relative;
+    height: auto;
+    width: 456px;
+}
+
+
+input[type='text'],input[type='email'],input[type='password']{
+    height: 40px;
+    width: 442px;
+    border-radius: 8px;
+    border:1px solid #E0E4F0;
+    margin-bottom: 22px;
+    padding-left: 10px;
+   
+}
+.eyeicon1,.eyeicon2{
+    position: absolute;
+    right: 6px;
+}
+
+.passd_match{
+    padding-left: 10px;
+    color: #586374;
+    font-size: 14px;
+    margin-top: -5px;
+}
+
+.normal_subb{
+    color: #ABB4C2;
+    width: 453px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 8px;
+    border:1px solid #E0E4F0;
+    background-color: #E0E4F0;
+}
+
+.valid_subb{
+    color: white;
+    width: 453px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 8px;
+    border:1px solid #E0E4F0;
+    background-color: #3490F6;
+    
+
+}
+
+.link_div1 {
+    position: relative; 
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    display: flex;
+    width: 450px;
+    margin-top: 3px;
+    color: #586374;
+    font-size: 14px;
+}
+
+.copyright1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.enter_password2 {
+    height: 40px;
+    width: 442px;
+    border-radius: 8px;
+    border: 1px solid #E0E4F0;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
